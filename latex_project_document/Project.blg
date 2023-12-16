@@ -1,0 +1,48 @@
+This is BibTeX, Version 0.99d (TeX Live 2022)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: Project.aux
+The style file: naturemag_noURL.bst
+Database file #1: Project.bib
+Warning--empty journal in Julia
+You've used 4 entries,
+            2344 wiz_defined-function locations,
+            1012 strings with 9851 characters,
+and the built_in function-call counts, 1603 in all, are:
+= -- 113
+> -- 44
+< -- 0
++ -- 22
+- -- 11
+* -- 202
+:= -- 187
+add.period$ -- 12
+call.type$ -- 4
+change.case$ -- 4
+chr.to.int$ -- 0
+cite$ -- 5
+duplicate$ -- 137
+empty$ -- 137
+format.name$ -- 15
+if$ -- 309
+int.to.chr$ -- 0
+int.to.str$ -- 4
+missing$ -- 33
+newline$ -- 28
+num.names$ -- 4
+pop$ -- 25
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 23
+stack$ -- 0
+substring$ -- 80
+swap$ -- 138
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 1
+while$ -- 9
+width$ -- 5
+write$ -- 50
+(There was 1 warning)

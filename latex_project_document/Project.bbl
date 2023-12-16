@@ -1,0 +1,19 @@
+\begin{thebibliography}{1}
+\expandafter\ifx\csname url\endcsname\relax
+  \def\url#1{\texttt{#1}}\fi
+\expandafter\ifx\csname urlprefix\endcsname\relax\def\urlprefix{URL }\fi
+\providecommand{\bibinfo}[2]{#2}
+\providecommand{\eprint}[2][]{\url{#2}}
+
+\bibitem{childrenshospital}
+\bibinfo{author}{Casimir, G}
+\newblock \bibinfo{title}{A hybrid model of anaerobic e. coli gjt001:
+  Combination of elementary flux modes and cybernetic variables}.
+\newblock \emph{\bibinfo{journal}{Frontiers in Pediatrics}}
+  \textbf{\bibinfo{volume}{7}}, \bibinfo{pages}{993--1006}
+  (\bibinfo{year}{2019}).
+  (\bibinfo{month}{July}).
+  (\bibinfo{day}{23}).
+
+
+\end{thebibliography}
